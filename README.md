@@ -6,6 +6,6 @@ Math and Data Science, BS
 German minor
 
 ## Activities and societies
-Michigan Research and Discovery Scholars (MRADS)\
-Michigan Data Science Team (MDST)\
-Michigan Finance and Mathematics Society (MFAMS)
+..*Michigan Research and Discovery Scholars (MRADS)\
+..*Michigan Data Science Team (MDST)\
+..*Michigan Finance and Mathematics Society (MFAMS)
