@@ -8,4 +8,4 @@ German minor
 ## Activities and societies
 Michigan Research and Discovery Scholars (MRADS)\
 Michigan Data Science Team (MDST)\
-Michigan Finance and Mathematics Society (MFAMS)\
+Michigan Finance and Mathematics Society (MFAMS)
