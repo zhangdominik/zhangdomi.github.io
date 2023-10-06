@@ -10,8 +10,10 @@ Math and Data Science, BS
 German minor
 
 ## Research experience
-* Research Intern, Biomedical and Clinical Informatics Lab (BCIL)(Supervisor: Dr. Flora Rajaei), University of Michigan, Oct. 2023 - present
-* Research Intern, Spintronics Research Group (ERC lab)(Supervisor: Prof. Ferenc Simon), Budapest University of Technology and Economics, Oct. 2021 - Apr. 2023  
+* Research Intern, Biomedical and Clinical Informatics Lab (BCIL)(Supervisor: Dr. Flora Rajaei),
+  *University of Michigan, Oct. 2023 - present
+* Research Intern, Spintronics Research Group (ERC lab)(Supervisor: Prof. Ferenc Simon),
+  *Budapest University of Technology and Economics, Oct. 2021 - Apr. 2023  
 
 ### Publications
 
