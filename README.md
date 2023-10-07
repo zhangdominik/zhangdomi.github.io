@@ -6,8 +6,8 @@ This year I'm also part of the Biomedical and Clinical Informatics Lab (BCIL), d
 
 ## Education
 ### University of Michigan, Ann Arbor
-Math and Data Science, BS
-German minor
+* Major: Math and Computer Science
+* Minor: Business
 
 ## Research experience
 * Research Intern, Biomedical and Clinical Informatics Lab (BCIL)(Supervisor: Dr. Flora Rajaei)\
