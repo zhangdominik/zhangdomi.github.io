@@ -1,4 +1,4 @@
-# Undergraduate Student
+# Zhang Yu Jie
 
 ## Introduction
 I'm currently a freshman at the University of Michigan studying Mathematics and Computer Science. \
@@ -6,6 +6,7 @@ This year I'm also part of the Biomedical and Clinical Informatics Lab (BCIL), d
 
 ## Education
 ### University of Michigan, Ann Arbor
+* Freshman
 * Major: Math and Computer Science
 * Minor: Business
 
