@@ -1,7 +1,7 @@
 # Undergraduate Student
 
 ## Introduction
-I'm currently a freshman at the University of Michigan studying Mathematics and Data Science. \
+I'm currently a freshman at the University of Michigan studying Mathematics and Computer Science. \
 This year I'm also part of the Biomedical and Clinical Informatics Lab (BCIL), doing Machine Learning research on Crohn's disease under the supervision of Dr. Flora Rajaei.
 
 ## Education
