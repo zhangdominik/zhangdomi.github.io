@@ -10,9 +10,11 @@ This year I'm also part of the Biomedical and Clinical Informatics Lab (BCIL), d
 * Minor: Business
 
 ## Research experience
-* Research Intern, Biomedical and Clinical Informatics Lab (BCIL)(Supervisor: Dr. Flora Rajaei)\
+* Research Intern, Biomedical and Clinical Informatics Lab (BCIL)\
+  Supervisor: Dr. Flora Rajaei\
   University of Michigan, Oct. 2023 - present
-* Research Intern, Spintronics Research Group (ERC lab)(Supervisor: Prof. Ferenc Simon)\
+* Research Intern, Spintronics Research Group (ERC lab)\
+  Supervisor: Prof. Ferenc Simon\
   Budapest University of Technology, Oct. 2021 - Apr. 2023  
 
 ## Publications
