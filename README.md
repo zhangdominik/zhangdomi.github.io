@@ -15,7 +15,16 @@ German minor
 * Research Intern, Spintronics Research Group (ERC lab)(Supervisor: Prof. Ferenc Simon)\
   Budapest University of Technology, Oct. 2021 - Apr. 2023  
 
-### Publications
+## Publications
+* [Music of fractals](http://fizikaiszemle.hu/uploads/2023/05/fizszem-202304-zhang-simon_15_34_49_1683034489.6549.pdf)\
+  Zhang Yu Jie, Prof. Simon Ferenc\
+  *Fizikai Szemle(available only in Hungarian), 2023*
+* [Irreversibility Of Processes And The Loschmidt Paradox](http://goliat.eik.bme.hu/~f.simon/publications/Students/Zhang_TDK_2022.pdf)\
+  Zhang Yu Jie, Prof. Simon Ferenc\
+  *Scientific Students' Association (TDK), 2022*\
+  *[Available also in Hungarian](http://fizikaiszemle.hu/uploads/2022/11/fizszem-202210-zhang-simon_11_25_46_1667989546.2188.pdf)*
+  
+
 
 ## Activities and societies
 * Michigan Research and Discovery Scholars (MRADS)
